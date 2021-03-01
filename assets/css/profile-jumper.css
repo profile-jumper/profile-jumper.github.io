@@ -1,0 +1,74 @@
+.navbar-brand img {
+  border-radius: 2px;
+}
+
+.profile-jumper-header {
+  padding-top: 10px;
+}
+
+.profile-jumper-branding-logo img {
+  border-radius: 4px;
+  width: 90px;
+  height: 90px;
+}
+
+.profile-jumper-branding-heading h1 {
+  color: #367532;
+}
+
+.feature-card .card-header {
+  background-color: #495057;
+}
+
+.feature-card .card-img-top {
+     width: 110px;
+     height: 96px;
+}
+
+h1 {
+  padding-top: 10px;
+}
+
+
+/* footer */
+section {
+    padding: 60px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+#footer {
+  background: #367532 !important;
+}
+
+#footer ul li{
+  padding: 20px;
+}
+
+
+#footer a {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+#footer a:hover {
+    color: #ffffff;
+    text-decoration: underline !important;
+}
+
+/* credits */
+
+.credits-card .card-header {
+  background-color: #495057;
+  height: 145px;
+}
+
+.credits-card .card-img-top {
+     width: 125px;
+     height: 125px;
+}
